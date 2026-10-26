@@ -1,10 +1,10 @@
-# Hotel_On_ management (HotelPro)
+# aI_hotel_management (AI_pro_Hotel)
 > A modern, secure, and luxury-tier Hotel Management System built with the MERN stack.
 
 
 
 ## Overview
-**Hotel_On_ management** provides a comprehensive hospitality management platform designed to meet the evolving needs of boutique resorts, luxury suites, and hotel chains. It delivers a fast, light-themed, accessible guest booking interface alongside robust staff and administrative operational dashboards.
+**aI_hotel_management** provides a comprehensive hospitality management platform designed to meet the evolving needs of boutique resorts, luxury suites, and hotel chains. It delivers a fast, light-themed, accessible guest booking interface alongside robust staff and administrative operational dashboards.
 
 ---
 
